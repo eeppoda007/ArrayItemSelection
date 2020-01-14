@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+var files = ""
 class ViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     var fruits = ["Star Apple", "Jack Fruit", "Genep", "Pine Apple"]
